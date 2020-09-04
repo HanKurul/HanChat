@@ -3,7 +3,11 @@ This was a hoby project, This repo is clientside,
 
 # Written with React
 I did the styling , wrote the css
-# Site
+
+# Live Site: https://darkychat.netlify.app/
+Client: Runs on netlify
+Server: Runs on Heroku
+# Site 
 ![](https://i.gyazo.com/c6bcbe35dbc0f78f2faf4b8778e37721.png)
 
 # Supports Mobile !
